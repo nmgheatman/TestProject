@@ -8,4 +8,7 @@ package org.com;
  * @create 2021/2/28 11:20
  **/
 public class hello {
+    public static void main(){
+
+    }
 }
